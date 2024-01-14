@@ -20,7 +20,7 @@ function animateElement(el, properties, duration) {
   var defaults = {
     animation: "dissolve",
     separator: ",",
-    speed: 5000,
+    speed: 2000,
   };
 
   $.fn.textrotator = function (options) {
